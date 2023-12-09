@@ -265,7 +265,7 @@ def main():
     )
 
     skbuild.setup(
-        name=package_name,
+        name="opencv-python-dkurt",
         version=package_version,
         url="https://github.com/opencv/opencv-python",
         license="Apache 2.0",
